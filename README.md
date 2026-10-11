@@ -1,4 +1,6 @@
-# NARD – Adaptive Educational Game for Children with Developmental Dyscalculia
+
+NARD: AI-Driven Adaptive Educational Game for Children with Dyscalculia       
+
 
 NARD is an adaptive educational iOS application designed to support children
 aged 6–12 (Grades 1–6) with developmental dyscalculia.
