@@ -1,3 +1,4 @@
+<img width="503" height="311" alt="Screenshot 2026-10-11 at 5 18 02 PM" src="https://github.com/user-attachments/assets/25e939db-fc0d-4389-84bc-b822aac005d2" />
 
 NARD: AI-Driven Adaptive Educational Game for Children with Dyscalculia       
 
