@@ -116,6 +116,18 @@ across sessions.
 
 ---
 
+## 💻 Programming & Tools
+
+- **Swift / SwiftUI** — iOS application development
+- **Xcode** — Application development and testing
+- **Firebase Firestore** — Data storage and progress tracking
+- **Google Cloud Run** — Backend services
+- **Streamlit** — Reinforcement Learning simulation and evaluation
+- **Git / GitHub** — Version control
+- - **Python** — Data preprocessing, Reinforcement Learning, and model evaluation
+
+---
+
 ## 🎓 Academic Project
 
 Graduation Project – BSc Data Science & Analysis  
