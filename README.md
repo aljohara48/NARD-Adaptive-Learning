@@ -1,6 +1,6 @@
 <img width="503" height="311" alt="Screenshot 2026-10-11 at 5 18 02 PM" src="https://github.com/user-attachments/assets/25e939db-fc0d-4389-84bc-b822aac005d2" />
 
-NARD: AI-Driven Adaptive Educational Game for Children with Dyscalculia       
+# NARD: AI-Driven Adaptive Educational Game for Children with Dyscalculia       
 
 
 NARD is an adaptive educational iOS application designed to support children
@@ -50,7 +50,7 @@ research group.
 
 - 1,218 math word problems
 - Grades 1–6
-- 8 original features
+- 8 original fields
 - CC BY-NC 4.0 license
 
 The data pipeline included:
@@ -79,9 +79,9 @@ and static difficulty.
 
 ---
 
-<img width="510" height="538" alt="Screenshot 2026-10-11 at 5 26 02 PM" src="https://github.com/user-attachments/assets/4fd804d2-cc7a-49f9-a65f-a1848105aac1" />
-
 ## 🏗️ System Architecture
+
+<img width="510" height="538" alt="Screenshot 2026-10-11 at 5 26 02 PM" src="https://github.com/user-attachments/assets/4fd804d2-cc7a-49f9-a65f-a1848105aac1" />
 
 - **Frontend:** SwiftUI / Xcode
 - **Backend:** Google Cloud Run
