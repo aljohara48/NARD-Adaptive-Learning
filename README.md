@@ -1,4 +1,4 @@
-# NARD – AI-Driven Adaptive Educational Game for Children with Dyscalculia<img width="468" height="13" alt="image" src="https://github.com/user-attachments/assets/ed214ae4-0b6f-4efa-8ceb-fa7cddf39834" />
+# NARD – AI-Driven Adaptive Educational Game for Children with Dyscalculia
 
 
 NARD is an AI-powered educational application designed to provide
