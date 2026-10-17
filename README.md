@@ -133,15 +133,6 @@ across sessions.
 Graduation Project – BSc Data Science & Analysis  
 Princess Nourah bint Abdulrahman University
 
-**Team:**  
-Aljawharah Abdulrahman Bin Omran  
-Joudy Abdulmalik Althumayri  
-Ghaidaa Mohammed Alqahtani  
-Raghad Yasir Ababtain  
-Leen Abdulaziz Alharbi  
-
-**Supervisor:** Dr. Fatma Sulaiman Alrayes
-
 ---
 
 ## ⚠️ Limitations
