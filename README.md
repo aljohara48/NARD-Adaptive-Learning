@@ -48,7 +48,7 @@ Q-Learning parameters used in the project:
 NARD uses the public **Calc-asdiv_a** dataset developed by the MU-NLPC
 research group.
 
-- 1,218 math word problems
+- 2,218 math word problems
 - Grades 1–6
 - 8 original fields
 - CC BY-NC 4.0 license
